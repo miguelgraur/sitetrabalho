@@ -1,0 +1,32 @@
+body
+{
+background-color:grey;
+}
+
+.letra
+{
+color : white;
+}
+
+
+.cards
+{
+color:white;
+background-color: black;
+}
+.titulo
+{
+    color: black;
+text-align: center;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.cordefundo{
+    background-color: lightgrey;
+}
+
+.rodape
+{
+background-color: black;
+color: white;
+}
